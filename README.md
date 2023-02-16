@@ -1,2 +1,3 @@
 # IntroToGithub
-My first repo
+My **first repo** bold \
+hello 'world' \
